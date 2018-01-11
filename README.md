@@ -1,2 +1,2 @@
-# ERC20Token
+# ERC20/ERC233 Token
 Custom ERC20/ERC233TOKEN
